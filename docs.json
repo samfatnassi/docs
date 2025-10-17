@@ -96,7 +96,7 @@
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
+      "label": "login",
       "href": "https://dashboard.mintlify.com"
     }
   },
