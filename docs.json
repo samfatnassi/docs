@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "Kilma Docs",
   "colors": {
-    "primary": "#8078ef",
-    "light": "#8078ef",
-    "dark": "#8078ef"
+    "primary": "#0353e9",
+    "light": "#0353e9",
+    "dark": "#0353e9"
   },
   "favicon": "/images/kilmaicon.png",
   "navigation": {
