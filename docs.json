@@ -7,7 +7,10 @@
     "light": "#0353e9",
     "dark": "#0353e9"
   },
-  "favicon": "/images/kilmaicon.png",
+  "favicon": {
+    "light": "/images/kilmaicon.png",
+    "dark": "/images/kilmaicon.png"
+  },
   "navigation": {
     "global": {
       "anchors": [
