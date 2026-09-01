@@ -88,8 +88,8 @@
     ]
   },
   "logo": {
-    "light": "/images/kilmalogo.webp",
-    "dark": "/images/kilmawhite.webp"
+    "light": "/images/logo2.svg",
+    "dark": "/images/logo1.svg"
   },
   "navbar": {
     "links": [
