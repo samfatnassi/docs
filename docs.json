@@ -8,8 +8,8 @@
     "dark": "#0353e9"
   },
   "favicon": {
-    "light": "/images/kilmaicon.png",
-    "dark": "/images/kilmaicon.png"
+    "light": "/images/icon.png",
+    "dark": "/images/icon.png"
   },
   "navigation": {
     "global": {
