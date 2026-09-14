@@ -91,8 +91,8 @@
     ]
   },
   "logo": {
-    "light": "/images/logo.svg",
-    "dark": "/images/logo2.svg"
+    "light": "/images/logo1.svg",
+    "dark": "/images/2.svg"
   },
   "navbar": {
     "links": [
