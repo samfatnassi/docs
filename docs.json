@@ -91,7 +91,7 @@
     ]
   },
   "logo": {
-    "light": "/images/logo.png",
+    "light": "/images/logo.svg",
     "dark": "/images/logo2.svg"
   },
   "navbar": {
